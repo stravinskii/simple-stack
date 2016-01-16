@@ -1,12 +1,11 @@
-A C++ Stack implementation
+## C++ Simple Stack
 
-Files:
-  stack.cpp
-    Stack implementation using Lists
-  stack_node.cpp
-    Stack implementation using a Node structure
+## Files
+- stack.cpp
+  - Stack implementation using Lists
+- stack_node.cpp
+  - Stack implementation using a Node structure
 
-Compile:
-  makefile included
-  or using c++ compiler:
-    > g++ -o stack stack.cpp
+## Compile
+- _make_
+- _g++ -o stack stack.cpp_
